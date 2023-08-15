@@ -1,0 +1,68 @@
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Crud_Directorio_Tele.exe.config
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Crud_Directorio_Tele.exe
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Crud_Directorio_Tele.pdb
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Google.Protobuf.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\MySql.Data.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Buffers.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Memory.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\ZstdNet.dll
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Google.Protobuf.pdb
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Google.Protobuf.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\MySql.Data.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Buffers.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Memory.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.AssemblyReference.cache
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.SuggestedBindingRedirects.cache
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.Form1.resources
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.Properties.Resources.resources
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.GenerateResource.cache
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.CoreCompileInputs.cache
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.CopyComplete
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.exe
+C:\Users\KATHE\Documents\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.pdb
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Crud_Directorio_Tele.exe.config
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Crud_Directorio_Tele.exe
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Crud_Directorio_Tele.pdb
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\BouncyCastle.Crypto.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Google.Protobuf.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Hash.xxHash.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\MySql.Data.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Buffers.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Memory.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Numerics.Vectors.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\ZstdNet.dll
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\BouncyCastle.Crypto.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Google.Protobuf.pdb
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\Google.Protobuf.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\K4os.Hash.xxHash.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\MySql.Data.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Buffers.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Memory.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Numerics.Vectors.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.AssemblyReference.cache
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.SuggestedBindingRedirects.cache
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.Form1.resources
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.Properties.Resources.resources
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.GenerateResource.cache
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.CoreCompileInputs.cache
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.csproj.CopyComplete
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.exe
+D:\Universidad Nacional Abierta y a Distancia UNAD\2022-06 Quinto y Sexto semestre\Lenguajes de Programación\Unidad 2 - Etapa 3\Crud_Directorio_Tele\Crud_Directorio_Tele\obj\Debug\Crud_Directorio_Tele.pdb
